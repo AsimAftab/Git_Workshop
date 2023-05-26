@@ -1,2 +1,2 @@
 # Git_Workshop
-$${\color{red}This is Github Workshop
+$${\color{aqua}This \space \color{lightblue}is Github \space \color{orange}Workshop}$$
