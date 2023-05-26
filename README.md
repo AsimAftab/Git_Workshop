@@ -1,2 +1,2 @@
 # Git_Workshop
-<code style="color : aqua">This is GitHub workshop </code>
+<code style="color : blue">This is GitHub workshop </code>
